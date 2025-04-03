@@ -23,7 +23,7 @@ The main goal of GymSync is to develop a **comprehensive fitness tracking web ap
 ## Technical Stack
 GymSync is built as a **full-stack web application** with the following technologies:
 - **Backend:** Express.js with PostgreSQL and Prisma ORM.
-- **Frontend:** Next.js (planned) with Tailwind CSS and shadcn/ui.
+- **Frontend:** Next.js with Tailwind CSS 4 and shadcn/ui.
 - **Authentication:** JWT-based authentication for secure access.
 - **Cloud Storage:** Cloudinary for user-generated media.
 
